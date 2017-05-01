@@ -1,5 +1,5 @@
 # Greymind SceneDef
-Scene file Format with Maya Exporter and XNA Importer.
+Scene file format with Maya Exporter and C# Importer.
 > Depends on [ModelDef](https://github.com/greymind/ModelDef)
 
 # Features
